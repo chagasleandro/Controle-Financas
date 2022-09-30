@@ -6,7 +6,7 @@ Um CRUD em REactJS como o usuaário pode adicionar e deletar informações no co
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 <img  alt="REACTJS"
-     src="https://img.shields.io/badge/REACTJS-E34F26?style=for-the-badge&logo=reactjs&logoColor=white"/>
+     src="https://img.shields.io/badge/REACTJS-%231572B6?style=for-the-badge&logo=reactjs&logoColor=white"/>
 <img alt="TypeScrit"
       src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=tpescript&logoColor=white"/>
  <img alt="LOCALSTORAGE"
