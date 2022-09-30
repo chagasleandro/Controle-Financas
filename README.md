@@ -7,8 +7,8 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 <img  alt="REACTJS"
      src="https://img.shields.io/badge/REACTJS-%231572B6?style=for-the-badge&logo=reactjs&logoColor=white"/>
-<img alt="TypeScrit"
-      src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=tpescript&logoColor=white"/>
+<img alt="React-Icons"
+      src="https://img.shields.io/badge/React-Icons-%231572B6.svg?style=for-the-badge&logo=tpescript&logoColor=white"/>
  <img alt="LOCALSTORAGE"
       src="https://img.shields.io/badge/localstorage-%231572B6.svg?style=for-the-badge&logo=localstorage&logoColor=white"/>
 
