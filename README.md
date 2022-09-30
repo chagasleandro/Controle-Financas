@@ -1,5 +1,5 @@
 ## Controle de finanças:
-Um CRUD em ReactJS como o usuaário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador.
+Um CRUD em ReactJS como o usuário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador.
 
 ## :globe_with_meridians: Tecnologias
 
