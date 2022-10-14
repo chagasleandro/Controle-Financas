@@ -1,5 +1,5 @@
 ## Controle de finanças:
-Um CRUD em ReactJS como o usuário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador.
+Um CRUD em ReactJS, como o usuário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador).
 
 ## :globe_with_meridians: Tecnologias
 
@@ -21,6 +21,6 @@ $ git clone https://github.com/chagasleandro/Controle-Financas
 
 ## Servidor de desenvolvimento
 
-Execute `npm start` para um servidor dev. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+Execute `npm start` para um servidor dev. Navegue até `http://localhost:3000/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 # Instalando as dependências
 $ npm init
