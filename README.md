@@ -1,4 +1,5 @@
 ## Controle de finanças:
+💻 Projeto:</br>
 Um CRUD em ReactJS, como o usuário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador).</br> </br>
 <img src="./src/asserts/img3.png"/>
 </br> </br>
@@ -7,7 +8,8 @@ Um CRUD em ReactJS, como o usuário pode adicionar e deletar informações no co
 <img src="./src/asserts/img2.png"/>
 ## :globe_with_meridians: Tecnologias
 
-Esse projeto foi desenvolvido usando as seguintes tecnologias:
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <img  alt="REACTJS"
      src="https://img.shields.io/badge/REACTJS-%231572B6?style=for-the-badge&logo=reactjs&logoColor=white"/>
