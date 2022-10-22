@@ -1,6 +1,7 @@
 ## Controle de finanças:
 💻 Projeto:</br></br>
 Um CRUD em ReactJS, como o usuário pode adicionar e deletar informações no controle de finanças pessoal, e seu armazenamento é feito pelo Localstorage(Banco local do navegador).</br> </br>
+🔖 Layout</br></br>
 <img src="./src/asserts/img3.png"/>
 </br> </br>
 <img src="./src/asserts/img1.png"/>
